@@ -1,0 +1,31 @@
+- sections:
+
+  - local: index
+
+    title: 🧨 Diffusers
+
+  - local: quicktour
+
+    title: クイックツアー
+
+  - local: stable_diffusion
+
+    title: 有効で効率の良い拡散モデル
+
+  - local: installation
+
+    title: インストール
+
+  title: はじめに
+
+- sections:
+
+  - local: tutorials/tutorial_overview
+
+    title: 概要
+
+  - local: tutorials/autopipeline
+
+    title: AutoPipeline
+
+  title: チュートリアル
